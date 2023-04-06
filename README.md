@@ -68,4 +68,6 @@ for h in hilos:
     h.start()
 ~~~~~~~~~~~~~~~~~~ 
 
-Pequeño video explicando:
+## Pequeño video explicando:
+
+[Video de Explicación](https://miucateciedu-my.sharepoint.com/:v:/g/personal/20190126_miucateci_edu_do/EVLYjpqxj2hCp0QGPw__d9gBX6P5tYwmvG9S7DeCEftVPw?e=EPGaHx)
