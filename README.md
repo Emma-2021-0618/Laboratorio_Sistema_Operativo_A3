@@ -1,6 +1,6 @@
 # UCATECI
 - Sistemas operativo 2
-- Lizandro JOse Ramirez
+- Lizandro Jose Ramirez
 - Encuentro 7 Teoria
 
 # Autores
